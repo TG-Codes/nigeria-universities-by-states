@@ -1,0 +1,23 @@
+{
+  "name": "nigeria-universities-by-states",
+  "version": "1.0.0",
+  "description": "NPM package for Nigerian Universities",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TG-Codes/nigeria-universities-by-states.git"
+  },
+  "keywords": [
+    "Nigeria",
+    "Universities"
+  ],
+  "author": "TG-Codes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TG-Codes/nigeria-universities-by-states/issues"
+  },
+  "homepage": "https://github.com/TG-Codes/nigeria-universities-by-states#readme"
+}
