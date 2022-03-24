@@ -1,1 +1,1 @@
-# nigeria-universities-by-states
+# NPM package for Nigeria Universities sorted by states
